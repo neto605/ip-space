@@ -1,22 +1,26 @@
-# Python Script: Comparação de Endereços IP
+# IP Space
 
-Este é um script em Python que compara endereços IP de dois datasets diferentes.
+Este é um projeto em Python para análise de endereços IP.
+
+## Objetivo
+
+O objetivo deste projeto é fornecer uma ferramenta simples para análise de endereços IP. Ele inclui funcionalidades para carregar e comparar conjuntos de endereços IP de diferentes fontes.
 
 ## Funcionalidades
 
-- Carrega endereços IP de arquivos de texto e JSON.
-- Compara os endereços IP dos dois datasets.
-- Exibe os endereços IP presentes no dataset 1, mas não no dataset 2.
+- Carregar endereços IP de um arquivo de texto ou JSON.
+- Comparar endereços IP de diferentes conjuntos de dados.
+- Identificar endereços IP únicos e divergentes entre os conjuntos de dados.
 
-## Como Usar
+## Uso
 
-Para usar este script, siga estas etapas:
+Para usar este projeto, você pode clonar o repositório e executar o script Python `main.py`. Certifique-se de fornecer os arquivos de dados corretos conforme necessário.
 
-1. Clone o repositório.
-2. Execute o script Python.
-3. Forneça os caminhos dos arquivos de dataset como argumentos.
+## Como contribuir
 
-## Exemplo de Uso
+Se você quiser contribuir com este projeto, fique à vontade para enviar pull requests ou abrir issues no repositório.
 
-Execute o script da seguinte maneira:
+## Contato
+
+Para mais informações, você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/antonioneto604/).
 
