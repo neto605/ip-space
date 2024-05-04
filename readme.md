@@ -6,6 +6,11 @@ Este é um projeto em Python para análise de endereços IP.
 
 O objetivo deste projeto é fornecer uma ferramenta simples para análise de endereços IP. Ele inclui funcionalidades para carregar e comparar conjuntos de endereços IP de diferentes fontes.
 
+## Description
+
+Este projeto foi criado para ajudar a resolver o problema ABC e facilitar o processo XYZ.
+
+
 ## Funcionalidades
 
 - Carregar endereços IP de um arquivo de texto ou JSON.
